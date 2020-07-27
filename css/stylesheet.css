@@ -1,0 +1,145 @@
+body{
+  margin: 0;
+}
+h1{
+  margin-top: 0;
+}
+
+hr{
+  border: dotted #10375c;
+  border-bottom: none;
+  width: 5%;
+  border-style: dotted;
+}
+
+.myname{
+  margin-top: 0;
+  position: absolute;
+  left: 40%;
+  top: 30%;
+  font-family: 'Sacramento',serif;
+  font-size: 80px;
+}
+.mynamepara{
+  margin-top: 50px;
+  position: absolute;
+  left: 40%;
+  top: 50%;
+  font-size: 25px;
+  font-family: 'Oswald', sans-serif;
+}
+.education{
+  margin-top: 0;
+  position: absolute;
+  left: 5%;
+  top: 10%;
+}
+.educationpara{
+  margin-top: 0;
+  position: absolute;
+  top: 40%;
+  left: 5%;
+  width: 40%;
+  font-size: 30px;
+  font-family: 'Oswald',sans-serif;
+
+}
+.dream{
+  margin-top: 0;
+  position: absolute;
+  left: 40%;
+  top: 30%;
+}
+.dreampara{
+  margin-top: 50px;
+  position: absolute;
+  left: 40%;
+  top: 35%;
+  font-size: 25px;
+  width: 50%;
+  font-family: 'Oswald', sans-serif;
+}
+
+.containerone{
+  background-color: #99d8d0;
+  height: 450px;
+  position: relative;
+}
+.containertwo{
+  background-color: #b7efcd;
+  height: 450px;
+  position: relative;
+}
+.containerthree{
+  background-color: #ffbcbc;
+  height: 450px;
+  position: relative;
+}
+.containerfour{
+  background-color: #092532;
+  height: 250px;
+  position: relative;
+}
+.profile-pic{
+  width: 25%;
+  left:20px;
+  top: 65px;
+  position: absolute;
+}
+.developer-logo{
+  width: 25%;
+  left: 65%;
+  top: 65px;
+  position: absolute;
+}
+.jawa-bike{
+  width: 25%;
+  left: 20px;
+  top: 65px;
+  position: absolute;
+}
+.btn {
+  background: #ff9595;
+  background-image: -webkit-linear-gradient(top, #ff9595, #fbc687);
+  background-image: -moz-linear-gradient(top, #ff9595, #fbc687);
+  background-image: -ms-linear-gradient(top, #ff9595, #fbc687);
+  background-image: -o-linear-gradient(top, #ff9595, #fbc687);
+  background-image: linear-gradient(to bottom, #ff9595, #fbc687);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #faeee7;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  position: absolute;
+  left: 45%;
+  top: 20%;
+}
+
+.btn:hover {
+  background: #fbc687;
+  background-image: -webkit-linear-gradient(top, #fbc687, #ff9595);
+  background-image: -moz-linear-gradient(top, #fbc687, #ff9595);
+  background-image: -ms-linear-gradient(top, #fbc687, #ff9595);
+  background-image: -o-linear-gradient(top, #fbc687, #ff9595);
+  background-image: linear-gradient(to bottom, #fbc687, #ff9595);
+  text-decoration: none;
+}
+.facebook{
+  position: absolute;
+  left: 45%;
+  top: 50%;
+  color: #ff9595;
+  font-family: 'Sacramento',serif;
+  font-size: 50px;
+}
+.rights{
+  position: absolute;
+  left: 80%;
+  color:#ff9595;
+   font-size: 15px;
+   top: 80%;
+
+}
